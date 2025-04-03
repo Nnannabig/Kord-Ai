@@ -1,19 +1,19 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: '2348160247341', // replace with your number with country code
-  OWNER_NAME: 'シ', // you owner name 
+  OWNER_NUMBERS: '2349035289028', // replace with your number with country code
+  OWNER_NAME: 'Prince Emmanuel', // you owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the ''
+  SESSION_ID: 'kord_ai-bXnv8DCBKcNU', // replace your_sessionid with yours and make sure its inside the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
-  WORK_MODE: "public",
+  WORK_MODE: "Private",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false, //commands are marked read
   AUTO_READ_STATUS: true,
   LOG_MESSAGES_AT_CONSOLE: false,
   PREFIX: ["."], 
-  REJECT_CALLS: false,
+  REJECT_CALLS: true,
   GROUP_EVENTS: true,
   DEFAULT_TRANSLATION_LANG: "en",
   VV_CMD: "📥",
@@ -23,9 +23,9 @@ global.settings = {
   AUTO_LIKE_STATUS: true,
   AUTO_LIKE_EMOJI: '🫆',
   BANKING_DETAILS: {
-    bank: "Kord-Ai Bank", // the name of your preferred bank
-    acc_number: "1234567890", // account number for your preferred bank
-    acc_name: "MyAccountName" // name of your bank
+    bank: "Opay Bank", // the name of your preferred bank
+    acc_number: "8062925069", // account number for your preferred bank
+    acc_name: "Deborah Nnanna" // name of your bank
   },
   /* You can also replace the numkord_ai-Cc2TYTL6Tkf2bers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {
@@ -44,6 +44,6 @@ global.settings = {
   ANTI_PM_SPAM_COUNT: 6,
   AUTO_TYPING: false, // if you wnat the bot to be typing always 
   AUTO_RECORDING: false, //if you want the bot to be recording always
-  ALWAYS_ONLINE: false,
+  ALWAYS_ONLINE: true,
 
 };
