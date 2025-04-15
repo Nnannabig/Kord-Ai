@@ -33,7 +33,7 @@ global.settings = {
   },
   isHackEnable: true,
   SAFE_SEARCH: true,
-  REJECT_CALLS: false,
+  REJECT_CALLS: true,
   SEND_WELCOME_MESSAGE: false,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
   DELETE_WA_LINKS: false,
